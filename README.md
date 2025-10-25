@@ -30,7 +30,7 @@
 <h3 align="left">Backend:</h3>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> [![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)]</a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> [![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)</a>
 </p>
 
 <h3 align="left">Tools and Testing Frameworks:</h3>
