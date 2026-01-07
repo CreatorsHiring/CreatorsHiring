@@ -25,9 +25,9 @@
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap)](https://skillicons.dev)
 
-### Backend
+### Backend & Database
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb)](https://skillicons.dev)
 
 <h3 align="left">Tools and Testing Frameworks:</h3>
 <p align="left"> 
