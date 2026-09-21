@@ -26,12 +26,20 @@
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,react)](https://skillicons.dev)
 
-### Backend & Database
+### Backend & AI
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,mongodb)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=nodejs,express,fastapi,python,pytorch)](https://skillicons.dev)
 
-<h3 align="left">Tools and Testing Frameworks:</h3>
-<p align="left"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a>
+### Tools & Databases
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-original.svg" alt="jasmine" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
 </p>
